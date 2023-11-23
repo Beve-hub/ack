@@ -6,6 +6,11 @@
     height: 70vmin;
     pointer-events: none;
   }
+
+  .logo {
+    height: 10vmin;
+    pointer-events: none;
+  }
   
   
   .App-header {
